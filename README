@@ -1,3 +1,38 @@
+# Usage
+
+This project is a mirror of [The Tree Command For Linux Homepage](http://mama.indstate.edu/users/ice/tree/). I have modified it so that you can use it on Mac. 
+
+Open a new `Terminal`, and
+
+```bash
+cd Desktop # Navigate to Desktop where we'll download the repo
+git clone https://github.com/hongtaoh/tree-1.8.0 # clone the repo
+mv ~/Desktop/tree-1.8.0/tree /usr/local/bin/ # move tree to /usr/local/bin
+```
+
+You can generate the directory tree under a specific directory. For example, 
+
+```bash
+cd tree-1.8.0
+tree
+```
+
+or generate the directory by specify the exact path following `tree`
+
+```bash
+tree /anywhere/you/like/
+```
+
+To remove `tree-1.8.0` from Desktop:
+
+```bash
+rm -rf tree-1.8.0
+```
+
+The following is the original README:
+
+## Original README
+
   Please read the INSTALL file for installation instructions, particularly if
 you are installing on a non-Linux machine.
 
