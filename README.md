@@ -6,8 +6,8 @@ Open a new `Terminal`, and
 
 ```bash
 cd Desktop # Navigate to Desktop where we'll download the repo
-git clone https://github.com/hongtaoh/tree-1.8.0 # clone the repo
-mv ~/Desktop/tree-1.8.0/tree /usr/local/bin/ # move tree to /usr/local/bin
+git clone https://github.com/hongtaoh/tree-1.8.0 # Clone the repo
+mv ~/Desktop/tree-1.8.0/tree /usr/local/bin/ # Move tree to /usr/local/bin
 ```
 
 You can generate the directory tree under a specific directory. For example, 
