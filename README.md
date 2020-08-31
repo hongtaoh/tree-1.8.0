@@ -31,7 +31,7 @@ rm -rf tree-1.8.0
 
 The following is the original README:
 
-## Original README
+## The Original README
 
   Please read the INSTALL file for installation instructions, particularly if
 you are installing on a non-Linux machine.
