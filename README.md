@@ -1,5 +1,7 @@
 # Usage
 
+## My contribution is negligible. If the workload for the original project is 100, I contributed only 0.00001%.
+
 This project is a mirror of [The Tree Command For Linux Homepage](http://mama.indstate.edu/users/ice/tree/). I have modified it so that you can use it on Mac. 
 
 Open a new `Terminal`, and
